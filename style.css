@@ -6,6 +6,9 @@ h1 {
   color: indigo;
   text-align: center;
 }
+a {
+  text-decoration: none;
+}
 .assign {
   background-color: #F0698B;
   margin: 10px;
