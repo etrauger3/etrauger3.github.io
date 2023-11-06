@@ -19,4 +19,5 @@ a {
 .assign img {
   width: 200px;
   margin: 10px;
+  border: 2px solid indigo;
 }
