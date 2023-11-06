@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 h1:hover {
-  color: #3935A1;
+  color: #7FFFD4;
   text-align: center;
 }
 a {
@@ -29,5 +29,5 @@ a {
 .assign img:hover {
   width: 200px;
   margin: 10px;
-  border: 3px dotted #3935A1;
+  border: 3px dotted #7FFFD4;
 }
