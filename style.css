@@ -6,6 +6,10 @@ h1 {
   color: indigo;
   text-align: center;
 }
+h1:hover {
+  color: #3935A1;
+  text-align: center;
+}
 a {
   text-decoration: none;
   color: black;
@@ -21,4 +25,9 @@ a {
   width: 200px;
   margin: 10px;
   border: 2px solid indigo;
+}
+.assign img:hover {
+  width: 200px;
+  margin: 10px;
+  border: 3px dotted #3935A1;
 }
